@@ -19,6 +19,7 @@ public class Cadastro{
     }
     public String getHistorico(){
         return historico;
+        //teste
     }
 
     public void addHistorico (String nota){
