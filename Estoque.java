@@ -13,6 +13,8 @@ public class Estoque {
         this.tamanhoLetra = tamanhoLetra; this.tamanhoNumero = tamanhoNumero;
         this.quantidade = quantidade;
     }
+  //testando mudanças 
+ // testando mudanças
 
     public String getTipo() {
         return tipo;
@@ -34,6 +36,6 @@ public class Estoque {
     }
     
     
-
+    
 
 }
