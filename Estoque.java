@@ -14,6 +14,8 @@ public class Estoque {
         this.quantidade = quantidade;
     }
 
+teste
+
     public String getTipo() {
         return tipo;
     }
