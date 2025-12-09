@@ -6,7 +6,7 @@ public class CadastroEstoque{
     private String infantil;
     private String calcados;
     private String diversos;
-
+//teste teste teste mudança sandro
     public CadastroEstoque(String masculino, String feminino, String infantil, String calcados, String diversos){
         this.masculino = masculino ;
         this.feminino = feminino;
